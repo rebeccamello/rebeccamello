@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hii, great to see you here! 
+
+![3134b4e72b343ac76d6b33ba985d523b-sticker](https://user-images.githubusercontent.com/49920539/194181986-c13fbd07-02f4-419b-b521-5f93841f5edf.png)
+
+--------
+## About Me
+
+I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm about to graduate in Computer Science :tada: and currently working at Apple Developer Academy | Mackenzie. 
 
 <!--
 **rebeccamello/rebeccamello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
