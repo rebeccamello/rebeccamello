@@ -37,5 +37,5 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
 </div>
 
 -------
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rebeccamello/rebeccamello/blob/output/github-contribution-grid-snake.svg)
 
