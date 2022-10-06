@@ -1,12 +1,26 @@
-# Hii, great to see you here! 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+
+## Hii, great to see you here! 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49920539/194181986-c13fbd07-02f4-419b-b521-5f93841f5edf.png" />
+    <img src="https://user-images.githubusercontent.com/49920539/194181986-c13fbd07-02f4-419b-b521-5f93841f5edf.png" width="200" height="200"/>
 </p>
 
+
 <p align="center">
-<a href = "mailto:rebecca.mello@me.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="linkedin.com/in/rebecca-mello-9101831b2" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:rebecca.mello@me.com">
+       <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="40" height="40">
+  </a>
+  <a href="linkedin.com/in/rebecca-mello-9101831b2" target="_blank">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a> 
+  <a href = "https://instagram.com/reeh_ms?igshid=YmMyMTA2M2Y=">
+       <img src="https://blog.vizcaya.com.br/wp-content/uploads/2017/02/instagram-Logo-PNG-Transparent-Background-download.png" width="40" height="40">
+  </a>
+  <a href = "https://medium.com/@rebecca-mello">
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" width="40" height="40">
+  </a>
 </p>
 
 --------
