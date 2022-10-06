@@ -12,7 +12,7 @@
   <a href = "mailto:rebecca.mello@me.com">
        <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" width="40" height="40">
   </a>
-  <a href="linkedin.com/in/rebecca-mello-9101831b2" target="_blank">
+  <a href="linkedin.com/in/rebecca-mello-9101831b2">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a> 
   <a href = "https://instagram.com/reeh_ms?igshid=YmMyMTA2M2Y=">
