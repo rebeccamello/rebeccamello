@@ -44,7 +44,7 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
         </td>
         <td align="center">
             <a href="https://github.com/rebeccamello/Wohoo"></a>
-            <img src="https://user-images.githubusercontent.com/49920539/194430537-88e26aea-c25c-4b8c-8c33-daac7018d713.png" width="100" height="100"/>  
+            <img src="https://user-images.githubusercontent.com/49920539/194445513-6e5efbcc-db10-4433-abc9-2a20bb8f0c6e.png" width="100" height="100"/>  
             <br>
             <p> Wohoo! </p>
             <br>
