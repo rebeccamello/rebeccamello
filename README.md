@@ -42,7 +42,7 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
             </sub>
         </td>
         <td align="center">
-             <img src="https://user-images.githubusercontent.com/49920539/194444860-98d5b021-e67b-4b48-9b1c-1b08d6b58389.png" width="100" height="100"/>
+             <img src="https://user-images.githubusercontent.com/49920539/194444860-98d5b021-e67b-4b48-9b1c-1b08d6b58389.png" width="60" height="60"/>
              <p> Swift Notes </p>
              <sub>
                  <a href="https://apps.apple.com/br/app/swift-notes/id1579088750?l=en"
@@ -52,7 +52,7 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
              </sub>
         </td>
         <td align="center">
-             <img src="https://user-images.githubusercontent.com/49920539/194443683-d7a24472-7f81-4bf9-95f2-a81134ab39b4.png" width="100" height="100"/>  
+             <img src="https://user-images.githubusercontent.com/49920539/194443683-d7a24472-7f81-4bf9-95f2-a81134ab39b4.png" width="60" height="60"/>  
              <p> Catch-Fly </p>
              <sub>
                 <a href="https://apps.apple.com/us/app/catch-fly-the-escape/id1615619928"
@@ -62,7 +62,7 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
              </sub>
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/49920539/194429434-69527598-080f-4271-a99b-26da4bc8515b.png" width="100" height="100"/>  
+            <img src="https://user-images.githubusercontent.com/49920539/194429434-69527598-080f-4271-a99b-26da4bc8515b.png" width="60" height="60"/>  
             <br>
             <p> Inkolors </p>
             <sub>
@@ -73,7 +73,7 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
             </sub>
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/49920539/194443065-62317227-5d6f-4ab2-a5e3-208052915eef.png" width="100" height="100"/>   
+            <img src="https://user-images.githubusercontent.com/49920539/194443065-62317227-5d6f-4ab2-a5e3-208052915eef.png" width="60" height="60"/>   
             <p> BTravellr </p>
             <sub>
                <a href="https://apps.apple.com/br/app/btravellr/id1578742661?l=en"
@@ -83,7 +83,7 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
             </sub>
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/49920539/194443364-34aa2a4d-31a0-420c-ae4f-afea8a92b463.png" width="100" height="100"/>  
+            <img src="https://user-images.githubusercontent.com/49920539/194443364-34aa2a4d-31a0-420c-ae4f-afea8a92b463.png" width="60" height="60"/>  
             <p> Sussurros </p>
             <sub>
                <a href="https://apps.apple.com/br/app/sussurros/id1588110679?l=en"
@@ -93,7 +93,7 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
             </sub>
         </td>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/49920539/194445513-6e5efbcc-db10-4433-abc9-2a20bb8f0c6e.png" width="100" height="100"/>  
+            <img src="https://user-images.githubusercontent.com/49920539/194445513-6e5efbcc-db10-4433-abc9-2a20bb8f0c6e.png" width="60" height="60"/>  
             <p> Wohoo! </p>
             <sub>
                 <a href="https://apps.apple.com/br/app/wohoo/id1572891052?l=en"
