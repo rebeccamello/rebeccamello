@@ -32,7 +32,7 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
 <table>
     <tr>
         <td align="center">
-            <img src="https://user-images.githubusercontent.com/49920539/194445124-9ad65c38-2923-4598-a285-aa88169c6ba5.png" width="100" height="100"/>   
+            <img src="https://user-images.githubusercontent.com/49920539/196942761-b58fa610-9db6-48e0-8ba6-5499c073e541.png" width="60" height="60"/>  
             <p> Spixii Flashcards </p>
             <sub>
                <a href="https://apps.apple.com/br/app/spixii-flashcards/id6443457347?l=en"
@@ -116,4 +116,3 @@ I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**
 -------
 
 ![Snake animation](https://github.com/rebeccamello/rebeccamello/blob/output/github-contribution-grid-snake.svg)
-
