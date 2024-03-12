@@ -25,7 +25,7 @@
 --------
 ### About Me
 
-I'm Rebecca, mostly called Becca, and I'm 22 years old. I'm an **iOS developer**, graduated in Computer Science :tada: and currently working at Stone Pagamentos 💚. 
+I'm Rebecca, mostly called Becca, and I'm 23 years old. I'm an **iOS developer**, graduated in Computer Science :tada: and currently working at Stone Pagamentos 💚. 
 
 ----------
 ### Apps 
